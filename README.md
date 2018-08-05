@@ -48,4 +48,4 @@ android {
 We can use less code if we use `.listFiles()` because we don't need to
 add the main and second folders.
 
-You never have not to add the "layout" folders
+You never have not to add the "layout" folders to the gradle.
